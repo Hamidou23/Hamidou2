@@ -1,2 +1,6 @@
 rfgrgrg
+<<<<<<< HEAD
 conflit : modification locale 	
+=======
+conflit : modification sur github 
+>>>>>>> c5125d9c294d685849277774f0ba7497128c9f9e
